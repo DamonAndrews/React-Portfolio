@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DamonAndrews/React-Portfolio/static/css/main.c2cab247.css",
+    "main.js": "/DamonAndrews/React-Portfolio/static/js/main.0ba236c8.js",
+    "static/media/_V7A4028.jpg": "/DamonAndrews/React-Portfolio/static/media/_V7A4028.8da0f984e9d05f0f2ea4.jpg",
+    "static/media/vegas.jpg": "/DamonAndrews/React-Portfolio/static/media/vegas.d5be03ded48ce24544b4.jpg",
+    "static/media/Resume.png": "/DamonAndrews/React-Portfolio/static/media/Resume.3821c136681bc486a209.png",
+    "static/media/BallHog.jpg": "/DamonAndrews/React-Portfolio/static/media/BallHog.b34c2da7c43c7fd3b066.jpg",
+    "static/media/Scheduler.jpg": "/DamonAndrews/React-Portfolio/static/media/Scheduler.a4d085b64cf1fe89d251.jpg",
+    "static/media/BallRunner.jpg": "/DamonAndrews/React-Portfolio/static/media/BallRunner.dded7eefd1f1ed85cac0.jpg",
+    "index.html": "/DamonAndrews/React-Portfolio/index.html",
+    "main.c2cab247.css.map": "/DamonAndrews/React-Portfolio/static/css/main.c2cab247.css.map",
+    "main.0ba236c8.js.map": "/DamonAndrews/React-Portfolio/static/js/main.0ba236c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.0ba236c8.js"
+  ]
+}
